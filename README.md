@@ -77,6 +77,8 @@ yarn install
 yarn buildcli
 ```
 
+pull request test
+
 ## Start xhash-auto-staking-client
 Run the following commands in the repository directory:
 
